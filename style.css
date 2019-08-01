@@ -1,0 +1,29 @@
+.title{
+  display: flex;
+  justify-content: center;
+  font-size: 45px;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 40px;
+}
+body{
+  background-color: lightcyan;
+}
+div {
+  background-color: lightcoral;
+}
+.pic_1  {
+  margin: 30px;
+  width: 325px;
+}
+.Text {
+  font-size: 30px;
+  text-transform: capitalize
+}
+.main {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 0px 100px;
+  font-family: 'Raleway', sans-serif;
+  border-radius: 35px;
+}
